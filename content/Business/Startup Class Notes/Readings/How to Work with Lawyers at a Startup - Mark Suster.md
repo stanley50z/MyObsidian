@@ -2,7 +2,7 @@
 date: 2024-07-28
 ---
 [link](https://bothsidesofthetable.com/how-to-work-with-lawyers-at-a-startup-cf4f15feb8d3)
-Master List: [[Startup Readings Master List]]
+Master List: [[Stanford Startup Course Master List]]
 
 > If you're a startup and you don't have a close relationship with a few law firms you're really missing one of the most important relationships that any entrepreneur can have.
 

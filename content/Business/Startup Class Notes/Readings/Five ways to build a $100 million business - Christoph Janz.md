@@ -2,7 +2,7 @@
 date: 2024-07-30
 ---
 [link](https://medium.com/point-nine-news/five-ways-to-build-a-100-million-business-82ac6ea8ffd9)
-Master List: [[Startup Readings Master List]]
+Master List: [[Stanford Startup Course Master List]]
 
 - **Elephants**: 1,000 enterprise customers paying you $100k+ per year each; or
 - **Deers**: 10,000 medium-sized companies paying you $10k+ per year each; or

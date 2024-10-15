@@ -2,7 +2,7 @@
 date: 2024-07-30
 ---
 [link](https://venturehacks.com/wp-content/uploads/2009/12/Pitching-Hacks.pdf)
-Master List: [[Startup Readings Master List]]
+Master List: [[Stanford Startup Course Master List]]
 
 > **SUMMARY**
 > Don’t spam investors with your business plan. Instead, convince **middlemen** to introduce you to investors. An effective middleman is simply someone investors listen to — often another entrepreneur or investor.

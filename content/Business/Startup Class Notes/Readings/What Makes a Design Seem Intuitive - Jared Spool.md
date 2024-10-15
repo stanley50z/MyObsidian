@@ -2,7 +2,7 @@
 date: 2024-07-05
 ---
 [link](https://articles.centercentre.com/design_intuitive/)
-Master List: [[Startup Readings Master List]]
+Master List: [[Stanford Startup Course Master List]]
 
 #### Closing the Knowledge Gap
 ![[image.gif]]

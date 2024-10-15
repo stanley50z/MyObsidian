@@ -3,7 +3,7 @@ aliases: []
 date: 2024-07-04
 ---
 [link](https://genius.com/Joel-spolsky-does-slow-growth-equal-slow-death-annotated)
-Master List: [[Startup Readings Master List]]
+Master List: [[Stanford Startup Course Master List]]
 
 In the essay, Spolsky presents two companies:
 - Company A: has a better product, more market share, solid and steady growth

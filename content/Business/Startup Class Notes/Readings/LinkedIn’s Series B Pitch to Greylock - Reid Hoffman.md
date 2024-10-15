@@ -2,7 +2,7 @@
 date: 2024-07-09
 ---
 [link](https://www.reidhoffman.org/linkedin-pitch-to-greylock/)
-Master List: [[Startup Readings Master List]]
+Master List: [[Stanford Startup Course Master List]]
 
 This essay shares LinkedIn's pitch to help founder understand pitching. Keep in mind that LinkedIn is already pretty well established at this point. They want to prove that they are not a game player but a [[Frighteningly Ambitious Startup Ideas - Paul Graham|game changer]].
 

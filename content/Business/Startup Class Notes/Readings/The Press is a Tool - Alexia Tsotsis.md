@@ -2,7 +2,7 @@
 date: 2024-07-06
 ---
 [link](https://www.dropbox.com/scl/fi/idtst2zn21vio5i68so6i/ThePressIsATool.pdf?rlkey=dtexzshqqsy5ho4ua07vvanc6&e=1&dl=0)
-Master List: [[Startup Readings Master List]]
+Master List: [[Stanford Startup Course Master List]]
 
 > The trick is to let your hype write a check your product CAN cash.
 

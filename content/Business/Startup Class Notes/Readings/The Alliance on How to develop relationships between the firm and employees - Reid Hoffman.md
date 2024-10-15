@@ -2,7 +2,7 @@
 date: 2024-07-20
 ---
 [link](https://www.linkedin.com/pulse/20140715055930-1213-the-alliance-a-visual-summary/)
-Master List: [[Startup Readings Master List]]
+Master List: [[Stanford Startup Course Master List]]
 
 
 Basically, think of the company and employees as an alliance.

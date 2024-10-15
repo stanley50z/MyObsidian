@@ -2,7 +2,7 @@
 date: 2024-07-01
 ---
 [How to get startup ideas](https://www.paulgraham.com/startupideas.html)
-[[Startup Readings Master List]]
+[[Stanford Startup Course Master List]]
 - Don't think of startup ideas, look for problems
 	- The problem is real if a group of users urgently need a solution, not sth they might use
 	- sth many people want some, or sth some people want a lot? Choose the latter 

@@ -2,7 +2,7 @@
 date: 2024-07-25
 ---
 [link](https://a16z.com/how-to-minimize-politics-in-your-company/)
-Master List: [[Startup Readings Master List]]
+Master List: [[Stanford Startup Course Master List]]
 
 > What do I mean by politics? I mean people advancing their careers or agendas by means other than merit and contribution.
 

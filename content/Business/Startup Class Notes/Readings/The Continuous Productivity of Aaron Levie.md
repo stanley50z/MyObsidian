@@ -2,7 +2,7 @@
 date: 2024-07-17
 ---
 [link](https://www.technologyreview.com/2013/11/29/251670/the-continuous-productivity-of-aaron-levie/)
-Master List: [[Startup Readings Master List]]
+Master List: [[Stanford Startup Course Master List]]
 
 Problem identified: Documents are some of the most valuable asset that a company has, yet they are increasingly being stored on personal devices and third-party services. This risks important confidential documents getting leaked.
 

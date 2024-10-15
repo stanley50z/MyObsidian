@@ -2,7 +2,7 @@
 date: 2024-07-04
 ---
 [link](https://a16z.com/a-recipe-for-growth-adding-layers-to-the-cake/) 
-Master List: [[Startup Readings Master List]]
+Master List: [[Stanford Startup Course Master List]]
 
 > Businesses don't grow themselves. One of the most important jobs of a CEO is to aggressively define and pursue a growth agenda for him or her business.
 - This also validated by [[Startup = Growth - Paul Graham]] and [[Lec 6 - Growth (Alex Schultz)]]

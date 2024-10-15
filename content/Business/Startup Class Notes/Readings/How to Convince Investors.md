@@ -2,7 +2,7 @@
 date: 2024-07-08
 ---
 [link](https://paulgraham.com/convince.html)
-Master List: [[Startup Readings Master List]]
+Master List: [[Stanford Startup Course Master List]]
 
 **You shouldn't try to convince investors with the pitch. It's better to let the startup do the work.**
 

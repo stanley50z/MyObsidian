@@ -2,7 +2,7 @@
 date: 2024-07-17
 ---
 [link](https://worldofwork.io/2019/07/cialdinis-6-principles-of-persuasion/)
-Master List: [[Startup Readings Master List]]
+Master List: [[Stanford Startup Course Master List]]
 
 ### 1. Reciprocity 
 The idea of giving someone a personalized and unexpected gift. People will feel like they own you because of social obligations.

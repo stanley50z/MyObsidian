@@ -2,7 +2,7 @@
 date: 2024-07-09
 ---
 [link](https://paulgraham.com/fr.html)
-Master List: [[Startup Readings Master List]]
+Master List: [[Stanford Startup Course Master List]]
 
 A typical trajectory of raising money is like this:
 1. Get start with a few 10Ks from seth like YC or angels

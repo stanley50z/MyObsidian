@@ -2,7 +2,7 @@
 date: 2024-07-21
 ---
 [link](https://paulgraham.com/startupmistakes.html)
-Master List: [[Startup Readings Master List]]
+Master List: [[Stanford Startup Course Master List]]
 
 ### 1. Single Founder
 Why single founder usually doesn't work:

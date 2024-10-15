@@ -2,7 +2,7 @@
 date: 2024-07-15
 ---
 [link](https://blog.samaltman.com/how-to-hire)
-Master List: [[Startup Readings Master List]]
+Master List: [[Stanford Startup Course Master List]]
 
 > Hiring is probably the most important thing a founder does.
 

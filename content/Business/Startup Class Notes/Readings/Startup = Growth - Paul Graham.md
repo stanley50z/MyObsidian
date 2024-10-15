@@ -2,7 +2,7 @@
 date: 2024-07-04
 ---
 [link](https://www.paulgraham.com/growth.html)
-[[Startup Readings Master List]]
+[[Stanford Startup Course Master List]]
 
 > You have to know that growth is what you're after. The good news is, if you get growth, everything else tends to fall into place. Which means you can use growth like a compass to make almost every decision you face.
 #### Redwoods

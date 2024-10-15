@@ -2,7 +2,7 @@
 date: 2024-07-01
 ---
 [Do things that Don’t Scale](http://paulgraham.com/ds.html)
-[[Startup Readings Master List]]
+[[Stanford Startup Course Master List]]
 ###### recruit users manually
 - "But for a startup to succeed, at least one founder (usually the CEO) will have to spend a lot of time on sales and marketing."
 	Don’t ignore this because the initial number is small

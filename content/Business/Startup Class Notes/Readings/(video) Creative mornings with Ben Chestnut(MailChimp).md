@@ -2,7 +2,7 @@
 date: 2024-07-05
 ---
 [link](https://vimeo.com/34081566)
-[[Startup Readings Master List]]
+[[Stanford Startup Course Master List]]
 
 Build an environment that allows creativity
 

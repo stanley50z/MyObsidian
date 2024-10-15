@@ -2,7 +2,7 @@
 date: 2024-07-24
 ---
 [link](https://a16z.com/making-yourself-a-ceo/)
-[[Startup Readings Master List]]
+[[Stanford Startup Course Master List]]
 
 > Being CEO requires lots of unnatural motion.
 

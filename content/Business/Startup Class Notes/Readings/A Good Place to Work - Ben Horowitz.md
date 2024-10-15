@@ -2,7 +2,7 @@
 date: 2024-07-24
 ---
 [link](https://a16z.com/a-good-place-to-work/)
-Master List: [[Startup Readings Master List]]
+Master List: [[Stanford Startup Course Master List]]
 
 It's important for the CEO to train employees and executives. Not only what to do, but **why to do**.
 

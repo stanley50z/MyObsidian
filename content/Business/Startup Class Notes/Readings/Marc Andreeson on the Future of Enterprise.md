@@ -2,7 +2,7 @@
 date: 2024-07-17
 ---
 [link](https://techcrunch.com/2013/01/27/marc-andreessen-on-the-future-of-the-enterprise/?guccounter=1)
-Master List: [[Startup Readings Master List]]
+Master List: [[Stanford Startup Course Master List]]
 
 What you think the enterprise space will look like in the next five years?
 	In the past, technology trickle down from the top government facilities to large corporations to small businesses to individuals. Now, the newest and interesting technology start with the individual users and then small businesses... The other way around.

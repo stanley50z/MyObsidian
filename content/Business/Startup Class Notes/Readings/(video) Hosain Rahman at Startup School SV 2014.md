@@ -2,7 +2,7 @@
 date: 2024-07-26
 ---
 [link](https://www.youtube.com/watch?v=ZpINPjfSlZc)
-Master List: [[Startup Readings Master List]]
+Master List: [[Stanford Startup Course Master List]]
 
 > If you believe what you think is right and what you think is gonna happen to customer experiences into the way people are gonna interact with technology, then stay that course and be in a position to do that.
 

@@ -2,7 +2,7 @@
 date: 2024-07-20
 ---
 [link](https://www.linkedin.com/pulse/20140604152945-1213-the-information-age-to-the-networked-age-are-you-network-literate/)
-Master List: [[Startup Readings Master List]]
+Master List: [[Stanford Startup Course Master List]]
 
 **The transition to the Networked Age**
 Job hunting: used to be searching the job listings, now is looking for connections to the people inside.

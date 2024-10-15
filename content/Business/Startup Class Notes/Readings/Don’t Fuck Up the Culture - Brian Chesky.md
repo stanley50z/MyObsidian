@@ -2,7 +2,7 @@
 date: 2024-07-13
 ---
 [link](https://medium.com/@bchesky/dont-fuck-up-the-culture-597cde9ee9d4)
-Master List: [[Startup Readings Master List]]
+Master List: [[Stanford Startup Course Master List]]
 
 > Airbnb: what is the single most important piece of advice you have for us?
 > Peter Thiel: "Don't fuck up the culture"
