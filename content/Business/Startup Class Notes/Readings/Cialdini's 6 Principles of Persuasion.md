@@ -1,3 +1,6 @@
+---
+date: 2024-07-17
+---
 [link](https://worldofwork.io/2019/07/cialdinis-6-principles-of-persuasion/)
 Master List: [[Startup Readings Master List]]
 

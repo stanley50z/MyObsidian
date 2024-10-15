@@ -1,3 +1,6 @@
+---
+date: 2024-07-08
+---
 [link](https://paulgraham.com/convince.html)
 Master List: [[Startup Readings Master List]]
 

@@ -1,3 +1,6 @@
+---
+date: 2024-07-17
+---
 [link](https://www.technologyreview.com/2013/11/29/251670/the-continuous-productivity-of-aaron-levie/)
 Master List: [[Startup Readings Master List]]
 

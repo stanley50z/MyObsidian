@@ -1,3 +1,6 @@
+---
+date: 2024-07-31
+---
 Tyler Bosmeny - founder and CEO of Clever
 Michael Seibel - founder of Justin.tv and Socialcam
 Dalton Caldwell, founder of imeem and App.net

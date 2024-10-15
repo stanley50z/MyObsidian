@@ -1,3 +1,6 @@
+---
+date: 2024-07-20
+---
 1.2.5 [[Thevenin equivalent circuit]]
 1.3 [[Signals]]
 1.4 [[电容：耦合，去耦（旁路），滤波]]

@@ -1,3 +1,6 @@
+---
+date: 2024-07-06
+---
 DoorDash - Stanley Tang, founder
 Teespring - Walker Williams, founder
 TwitchTV - Justin Kan, founder

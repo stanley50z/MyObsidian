@@ -1,3 +1,6 @@
+---
+date: 2024-09-03
+---
 **Two main purposes**
 - multiply small signals so they can be used by other circuits
 - make outputs bigger(larger voltage, current, and/or power)

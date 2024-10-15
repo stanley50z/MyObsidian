@@ -1,5 +1,6 @@
 ---
 aliases: []
+date: 2024-07-04
 ---
 [link](https://genius.com/Joel-spolsky-does-slow-growth-equal-slow-death-annotated)
 Master List: [[Startup Readings Master List]]

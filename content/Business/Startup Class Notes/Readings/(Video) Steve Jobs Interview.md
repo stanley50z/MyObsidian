@@ -1,3 +1,6 @@
+---
+date: 2024-07-01
+---
 [link](https://www.youtube.com/watch?v=M6Oxl5dAnR0&t=4253s)
 [[Startup Readings Master List]]
 Will there ever be new major startup working on major applications?

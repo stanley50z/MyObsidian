@@ -1,3 +1,6 @@
+---
+date: 2024-07-09
+---
 [link](https://www.reidhoffman.org/linkedin-pitch-to-greylock/)
 Master List: [[Startup Readings Master List]]
 

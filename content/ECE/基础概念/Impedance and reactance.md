@@ -1,3 +1,6 @@
+---
+date: 2024-08-11
+---
 1.7
 [[TAOE Master List]]
 ### 1.7 Impedance and reactance

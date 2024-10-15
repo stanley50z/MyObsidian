@@ -1,3 +1,6 @@
+---
+date: 2024-06-24
+---
 全称Serial Peripheral Interface
 #视频随笔 BV1im411Q73
 

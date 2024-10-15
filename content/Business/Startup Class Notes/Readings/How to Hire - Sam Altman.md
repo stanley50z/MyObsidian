@@ -1,3 +1,6 @@
+---
+date: 2024-07-15
+---
 [link](https://blog.samaltman.com/how-to-hire)
 Master List: [[Startup Readings Master List]]
 

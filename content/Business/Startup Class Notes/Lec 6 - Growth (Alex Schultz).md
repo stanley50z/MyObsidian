@@ -1,3 +1,6 @@
+---
+date: 2024-07-03
+---
 Alex Schulz is the Chief Marketing Officer and VP of Analytics for Meta(Facebook)
 
 What matters most for growth?

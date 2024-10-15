@@ -1,3 +1,6 @@
+---
+date: 2024-09-29
+---
 ## Op-Amp
 **Non-Ideal model**
 $\large V_{out}=A(V_{+}-V_{-})$

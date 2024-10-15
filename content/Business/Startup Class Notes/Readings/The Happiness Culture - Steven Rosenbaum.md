@@ -1,3 +1,6 @@
+---
+date: 2024-07-13
+---
 
 [link](https://www.fastcompany.com/1657030/happiness-culture-zappos-isnt-company-its-mission)
 Master List: [[Startup Readings Master List]]

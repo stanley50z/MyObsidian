@@ -1,3 +1,6 @@
+---
+date: 2024-07-04
+---
 [link](https://www.paulgraham.com/growth.html)
 [[Startup Readings Master List]]
 

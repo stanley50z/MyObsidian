@@ -1,3 +1,6 @@
+---
+date: 2024-07-30
+---
 [link](https://venturehacks.com/wp-content/uploads/2009/12/Pitching-Hacks.pdf)
 Master List: [[Startup Readings Master List]]
 

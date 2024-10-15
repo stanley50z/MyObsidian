@@ -1,3 +1,6 @@
+---
+date: 2024-07-30
+---
 [link](https://medium.com/point-nine-news/five-ways-to-build-a-100-million-business-82ac6ea8ffd9)
 Master List: [[Startup Readings Master List]]
 

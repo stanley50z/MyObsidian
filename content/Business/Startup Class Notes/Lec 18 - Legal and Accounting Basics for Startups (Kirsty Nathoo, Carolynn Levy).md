@@ -1,3 +1,6 @@
+---
+date: 2024-07-28
+---
 
 ### What kind of entity?
 - Delaware Corporation - stable, clear, common way to found a company.

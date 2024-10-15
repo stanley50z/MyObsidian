@@ -1,3 +1,6 @@
+---
+date: 2024-07-28
+---
 [link](https://bothsidesofthetable.com/how-to-work-with-lawyers-at-a-startup-cf4f15feb8d3)
 Master List: [[Startup Readings Master List]]
 

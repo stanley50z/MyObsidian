@@ -1,3 +1,6 @@
+---
+date: 2024-07-04
+---
 [link](https://a16z.com/a-recipe-for-growth-adding-layers-to-the-cake/) 
 Master List: [[Startup Readings Master List]]
 

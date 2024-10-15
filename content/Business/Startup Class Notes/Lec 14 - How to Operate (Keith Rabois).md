@@ -1,3 +1,6 @@
+---
+date: 2024-07-24
+---
 Keith Rabois
 
 ### Manager = Editor

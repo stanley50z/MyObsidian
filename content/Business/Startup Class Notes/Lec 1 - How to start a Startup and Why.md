@@ -1,3 +1,6 @@
+---
+date: 2024-08-04
+---
 Sam Altman - YC, OpenAI
 Dustin Moskovitz - Facebook, Asana, Good Ventures
 

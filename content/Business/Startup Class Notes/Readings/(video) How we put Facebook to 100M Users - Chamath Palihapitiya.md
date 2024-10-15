@@ -1,3 +1,6 @@
+---
+date: 2024-07-04
+---
 2013
 [link](http://youtu.be/raIUQP71SBU?t=29s)
 [[Startup Readings Master List]]

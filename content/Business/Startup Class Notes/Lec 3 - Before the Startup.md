@@ -1,3 +1,6 @@
+---
+date: 2024-06-16
+---
 Paul Graham -  cofounder of YC
 
 ### Intuition - Startup is a counter-intuitive thing

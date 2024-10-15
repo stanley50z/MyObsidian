@@ -1,3 +1,6 @@
+---
+date: 2024-07-08
+---
 [link](https://a16z.com/why-software-is-eating-the-world/)
 Master List: [[Startup Readings Master List]]
 

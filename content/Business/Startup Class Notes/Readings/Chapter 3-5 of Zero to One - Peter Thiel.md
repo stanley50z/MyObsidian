@@ -1,3 +1,6 @@
+---
+date: 2024-07-02
+---
 [link](https://archive.org/details/zero-to-one-book/page/n3/mode/1up)
 
 The author of this book is also the lecturer of [[Lec 5 - Competition is for losers (Peter Thiel)|Lec 5]]

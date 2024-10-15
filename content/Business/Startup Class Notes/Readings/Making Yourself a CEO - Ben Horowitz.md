@@ -1,3 +1,6 @@
+---
+date: 2024-07-24
+---
 [link](https://a16z.com/making-yourself-a-ceo/)
 [[Startup Readings Master List]]
 

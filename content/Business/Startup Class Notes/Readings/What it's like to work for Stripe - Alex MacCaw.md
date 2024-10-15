@@ -1,3 +1,6 @@
+---
+date: 2024-07-16
+---
 > A company's culture can be just as important to success as revenues or growth.
 
 **Email transparency**

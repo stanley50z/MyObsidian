@@ -1,3 +1,6 @@
+---
+date: 2024-07-01
+---
 Peter Thiel - cofounder of PayPal
 [video](https://www.youtube.com/watch?v=5_0dVHMpJlo&t=77s)
 [[Chapter 3-5 of Zero to One - Peter Thiel|This Lecture in book]], by the same person

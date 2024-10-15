@@ -1,3 +1,6 @@
+---
+date: 2024-08-19
+---
 Similar to [[Thevenin equivalent circuit]], but with a current source in parallel with a resistor
 ![[Norton Equivalent Circuit-20240819111909512.png]]
 $\large I_{eq}$ = $\large I_{shorted}$

@@ -1,3 +1,6 @@
+---
+date: 2024-07-20
+---
 [link](https://www.linkedin.com/pulse/20140715055930-1213-the-alliance-a-visual-summary/)
 Master List: [[Startup Readings Master List]]
 

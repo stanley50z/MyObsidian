@@ -1,3 +1,6 @@
+---
+date: 2024-07-30
+---
 [Startup Lessons Learned - Eric Ries](https://www.startuplessonslearned.com/)
 
 [Venture Hacks](venturehacks.com)

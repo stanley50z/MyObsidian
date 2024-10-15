@@ -1,3 +1,6 @@
+---
+date: 2024-07-16
+---
 Ben Silberman - Pinterest
 John Collison and Ben Collison - Stripe
 

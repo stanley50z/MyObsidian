@@ -1,3 +1,6 @@
+---
+date: 2024-08-18
+---
 1.9.2
 [[TAOE Master List]]
 ### 1.9.2 Electromechanical devices: relays

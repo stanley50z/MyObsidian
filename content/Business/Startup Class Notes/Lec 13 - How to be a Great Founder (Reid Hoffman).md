@@ -1,3 +1,6 @@
+---
+date: 2024-07-23
+---
 Reid Hoffman, founder of LinkedIn
 
 ### Founder Team

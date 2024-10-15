@@ -1,3 +1,6 @@
+---
+date: 2024-07-02
+---
 [link](https://www.wsj.com/articles/BL-232B-2715)
 [[Startup Readings Master List]]
 

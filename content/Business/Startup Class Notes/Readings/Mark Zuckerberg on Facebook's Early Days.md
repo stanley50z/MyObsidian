@@ -1,3 +1,6 @@
+---
+date: 2024-07-05
+---
 [link](https://allthingsd.com/20121020/mark-zuckerberg-on-facebooks-early-days-go-hard-or-go-home/)
 Master List: [[Startup Readings Master List]]
 

@@ -1,3 +1,6 @@
+---
+date: 2024-07-01
+---
 [Do things that Don’t Scale](http://paulgraham.com/ds.html)
 [[Startup Readings Master List]]
 ###### recruit users manually

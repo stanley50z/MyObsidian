@@ -1,3 +1,6 @@
+---
+date: 2024-06-25
+---
 Lecture 1
 [[Advice for ambitious 19 year olds - Sam Altman]]
 [[Good and Bad Reasons to Become an Entrepreneur - Dustin Moskovitz]]

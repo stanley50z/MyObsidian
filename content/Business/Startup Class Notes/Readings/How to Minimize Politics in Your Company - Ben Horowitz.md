@@ -1,3 +1,6 @@
+---
+date: 2024-07-25
+---
 [link](https://a16z.com/how-to-minimize-politics-in-your-company/)
 Master List: [[Startup Readings Master List]]
 

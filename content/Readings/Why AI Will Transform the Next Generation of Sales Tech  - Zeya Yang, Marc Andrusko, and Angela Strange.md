@@ -1,3 +1,6 @@
+---
+date: 2024-08-13
+---
 [link](https://a16z.com/ai-transforms-sales/?utm_medium=email&utm_source=newsletter&mkt_tok=MzgyLUpaQi03OTgAAAGU631AKkJRrYuxhY8lFAlNTBS0cTD5r912Vn9gfP4qaey9NDhyE3qcw8KGMoMG3pU3qhlzvjk4XeJ05QAiDU1mLMwdjNzMYk-t4RV6SG2SLYLyfg)
 Master List: [[Reading Master List]]
 

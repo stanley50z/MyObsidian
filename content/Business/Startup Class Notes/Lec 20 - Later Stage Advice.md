@@ -1,3 +1,6 @@
+---
+date: 2024-08-01
+---
 **This is for months 12-24, after product-market fit**
 
 ### Establish a structure

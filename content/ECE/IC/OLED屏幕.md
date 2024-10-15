@@ -2,6 +2,7 @@
 tags:
   - 视频随笔
 createdDate: 2024/7/6
+date: 2024-07-06
 ---
 [深度解读OLED屏底层构造](https://www.bilibili.com/video/BV1x7421d75h)
 #### 定义

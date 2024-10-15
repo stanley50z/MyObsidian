@@ -1,3 +1,6 @@
+---
+date: 2024-07-20
+---
 [link](https://www.linkedin.com/pulse/20140604152945-1213-the-information-age-to-the-networked-age-are-you-network-literate/)
 Master List: [[Startup Readings Master List]]
 

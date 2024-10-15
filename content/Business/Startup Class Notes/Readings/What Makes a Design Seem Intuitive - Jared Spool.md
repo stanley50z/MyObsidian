@@ -1,3 +1,6 @@
+---
+date: 2024-07-05
+---
 [link](https://articles.centercentre.com/design_intuitive/)
 Master List: [[Startup Readings Master List]]
 

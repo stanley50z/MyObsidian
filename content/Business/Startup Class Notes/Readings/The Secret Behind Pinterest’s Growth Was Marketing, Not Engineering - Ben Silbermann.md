@@ -1,3 +1,6 @@
+---
+date: 2024-07-05
+---
 [link](https://allthingsd.com/20121020/the-secret-behind-pinterests-growth-was-marketing-not-engineering-says-ceo-ben-silbermann/)
 Master List: [[Startup Readings Master List]]
 

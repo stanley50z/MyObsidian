@@ -1,3 +1,6 @@
+---
+date: 2024-06-27
+---
 # [Comparing Communication Protocols: I2C vs. SPI vs. CAN Bus](https://coreedges.com/comparing-communication-protocols-i2c-vs-spi-vs-can-bus)
 #通信/协议/I2C #通信/协议/SPI #通信/协议/CAN
 

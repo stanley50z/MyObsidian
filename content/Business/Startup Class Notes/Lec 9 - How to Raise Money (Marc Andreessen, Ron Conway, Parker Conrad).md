@@ -1,3 +1,6 @@
+---
+date: 2024-07-10
+---
 Q&A
 What makes you invest?
 - [[LinkedIn’s Series B Pitch to Greylock - Reid Hoffman|The first minute]], I decide if this person is a leader. Is this person rifled, focused, and obsessed by the product?

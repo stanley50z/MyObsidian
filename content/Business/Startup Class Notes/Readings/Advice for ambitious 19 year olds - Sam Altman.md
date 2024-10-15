@@ -1,3 +1,6 @@
+---
+date: 2024-07-01
+---
 [Advice for ambitious 19 year olds](https://blog.samaltman.com/advice-for-ambitious-19-year-olds)
 [[Startup Readings Master List]]
 Take the right amount of risk

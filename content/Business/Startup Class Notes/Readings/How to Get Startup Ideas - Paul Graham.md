@@ -1,3 +1,6 @@
+---
+date: 2024-07-01
+---
 [How to get startup ideas](https://www.paulgraham.com/startupideas.html)
 [[Startup Readings Master List]]
 - Don't think of startup ideas, look for problems

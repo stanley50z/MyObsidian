@@ -1,3 +1,6 @@
+---
+date: 2024-07-05
+---
 [link](https://businessofsoftware.org/2023/09/kathy-sierra-your-app-makes-me-fat/)
 Master List: [[Startup Readings Master List]]
 

@@ -1,3 +1,6 @@
+---
+date: 2024-06-24
+---
 #IC/Sensor 
 
 Vcc/GND = 5V

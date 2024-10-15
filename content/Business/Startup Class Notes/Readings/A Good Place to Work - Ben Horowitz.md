@@ -1,3 +1,6 @@
+---
+date: 2024-07-24
+---
 [link](https://a16z.com/a-good-place-to-work/)
 Master List: [[Startup Readings Master List]]
 

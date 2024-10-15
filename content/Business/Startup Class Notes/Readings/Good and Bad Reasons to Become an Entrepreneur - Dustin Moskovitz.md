@@ -1,3 +1,6 @@
+---
+date: 2024-07-01
+---
  [Good and Bad Reasons to Become an Entrepreneur](https://medium.com/i-m-h-o/good-and-bad-reasons-to-become-an-entrepreneur-decf0766de8d)
  [[Startup Readings Master List]]
  good reason: 

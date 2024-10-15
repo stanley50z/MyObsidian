@@ -1,3 +1,6 @@
+---
+date: 2024-07-25
+---
 Emmett Shear - co-founder of TwitchTV
 
 **Who you choose to interview is just at important as how you ask the questions**

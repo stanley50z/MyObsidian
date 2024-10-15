@@ -1,3 +1,6 @@
+---
+date: 2024-07-01
+---
 [Frighteningly Ambitious Startup Ideas](https://paulgraham.com/ambitious.html#f2n)
 [[Startup Readings Master List]]
 > The CEO of that company, the "next Steve Jobs," might not measure up to Steve Jobs. But he wouldn't have to. He'd just have to do a better job than Samsung and HP and Nokia, and that seems pretty doable.

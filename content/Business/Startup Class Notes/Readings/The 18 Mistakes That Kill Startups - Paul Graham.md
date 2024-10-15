@@ -1,3 +1,6 @@
+---
+date: 2024-07-21
+---
 [link](https://paulgraham.com/startupmistakes.html)
 Master List: [[Startup Readings Master List]]
 

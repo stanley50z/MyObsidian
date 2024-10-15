@@ -1,3 +1,6 @@
+---
+date: 2024-07-25
+---
 Ben Horowitz: cofounder of a16z
 
 > **When making a critical decision, you must understand how it will be interpreted from each person's point of view and its impact on the union of the individual views. i.e. culture**

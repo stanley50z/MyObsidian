@@ -1,3 +1,6 @@
+---
+date: 2024-08-06
+---
 
 ### Co-founders
 - have at least one co-founder, one of you have to be technical

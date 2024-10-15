@@ -1,3 +1,6 @@
+---
+date: 2024-07-21
+---
 [link](https://www.linkedin.com/pulse/20131015161834-1213-what-i-wish-i-knew-before-pitching-linkedin-to-vcs/)
 Master List: [[Startup Readings Master List]]
 

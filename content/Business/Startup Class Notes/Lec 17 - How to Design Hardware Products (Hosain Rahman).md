@@ -1,3 +1,6 @@
+---
+date: 2024-07-26
+---
 Hosain Rahman: CEO of Jawbone
 
 ![[Pasted image 20240726224443.png]]
